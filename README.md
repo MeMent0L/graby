@@ -1,4 +1,4 @@
-# graby2
+# graby
 
 Takes crypto-currency tracking data from coinmarketcap.northpole.ro and saves it in a tab-delimited .txt file
 
