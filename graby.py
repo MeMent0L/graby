@@ -1,8 +1,6 @@
 import sys
 import requests
 import json
-import re
-from tabulate import tabulate
 
 def get_position(json):
     try:
@@ -11,7 +9,6 @@ def get_position(json):
         return 1000
 
 count = 1200
-currency = "usd"
 
 # Getting data directly from Coinmarketcap API as of 18/11/2017
 
