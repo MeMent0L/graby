@@ -7,4 +7,4 @@ that can be used in MS Excel or LibreOffice Calc.
 Requires requests, json, pandas, sys
 
 
-*30/12/2018 - Updated to work with the revised CMC API, which requires a personal acount & API key
+*30/12/2018 - Updated to work with the revised CMC API, which requires a personal acount & API key*
