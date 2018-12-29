@@ -1,8 +1,8 @@
 # graby
 
-Takes crypto-currency tracking data from coinmarketcap.com API and saves it in a comma-delimited .txt file
+Takes latest crypto-currency background and market data from CoinMarketCap.com and saves it in a raw CSV file 
+that can be used in MS Excel or LibreOffice Calc.
 
-Requires requests, json, sys
+Requires requests, json, pandas, sys
 
-Inspired by https://github.com/abitfan/coinmarketcap-cli
-
+30/12/2018 - Updated to work with the revised CMC API, which requires an API key (to be updated in 
